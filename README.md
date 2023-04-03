@@ -6,10 +6,10 @@
     
     
 2.1 中国地图说明：2021年中国各省 GDP 情况.     
-[作业2.1链接](https://github.com/vasuphon/vasuphon/blob/0b9cb7d38406c5bf4bf5db61d044f38ebfa48f31/%E5%85%A8%E5%9B%BD%E5%90%84%E7%9C%81GDP_Map.html)
+[作业2.1链接](https://vasuphon.github.io/vasuphon/%E5%85%A8%E5%9B%BD%E5%90%84%E7%9C%81GDP_Map)
     
 2.2 世界地图说明：地图展示从外国来到中国留学最多10个国家，并展示中国学生出国留学最多的10个国家.     
-[作业2.2链接](https://github.com/vasuphon/vasuphon/blob/0b9cb7d38406c5bf4bf5db61d044f38ebfa48f31/Liuxue_Zhongguo.html)
+[作业2.2链接](https://vasuphon.github.io/vasuphon/Liuxue_Zhongguo.html）
    
    
 3.说明：根据第一题的作品《瓦尔登湖》我做出作品中出现的单音节词、双音节词和三音节以上的词的可能性的表格。    
